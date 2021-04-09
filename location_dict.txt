@@ -1,0 +1,5 @@
+{
+	'LOCATION_NAME_1':{'area':4266,'maxcap':260,'dispname':'Public-facing location display name 1','offset':6},
+	'LOCATION_NAME_2':{'area':2502,'maxcap':135,'dispname':'Public-facing location display name 2','offset':14},
+	# additional locations, areas, maxcap values, display names, & offsets as required
+}
