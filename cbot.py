@@ -1,4 +1,4 @@
-# Building occupancy display for dnaspaces firehose events received & written to file by index.py
+# COVID Building Occupancy Thing - a simple wifi occupancy display for Cisco DNA Spaces firehose events
 # last change: moved location dictionary to an external file
 # last changed on: 2020-11-09
 # devin.kettle@ubc.ca
